@@ -8,8 +8,10 @@ public class TestA1 {
 
 	
 	@Test
-	public void testA1_1(){
+	public void testA1_1() throws declaration{
 		throw new SkipException("Skipping the test");
+                this.age=age;
+
 	}
 	
 	@Test
@@ -23,3 +25,6 @@ public class TestA1 {
 		Assert.fail("failed test case ");
 	}
 }
+
+
+This is a new change

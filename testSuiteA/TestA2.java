@@ -7,7 +7,7 @@ public class TestA2 {
 
 	
 	@Test
-	public void testA2_1(){
+	public void testA2_1() new{
 		
 	}
 	
@@ -15,9 +15,11 @@ public class TestA2 {
 	public void testA2_2(){
 		Assert.fail("failed test case ");
 	}
-	
-	
+	/sdsdsdsd
+
+asdasd	
 	@Test
 	public void testA2_3(){
 	}
 }
+///sdsdsdasass
