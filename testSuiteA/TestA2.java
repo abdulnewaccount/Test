@@ -7,10 +7,21 @@ public class TestA2 {
 
 	
 	@Test
-	public void testA2_1(){
+	public void testA2_1() throws skipexception{
 		
 	}
-	
+	///....
+
+
+        
+
+
+
+
+
+
+
+
 	@Test
 	public void testA2_2(){
 		Assert.fail("failed test case ");
@@ -21,3 +32,6 @@ public class TestA2 {
 	public void testA2_3(){
 	}
 }
+
+
+//New function
